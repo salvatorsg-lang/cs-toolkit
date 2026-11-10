@@ -35,7 +35,7 @@ python3 health_score.py sample-accounts.csv
 
 You'll get a ranked list of five fictional accounts, each with a health score and a one-line reason.
 
-**Try it in your browser:** the same scoring runs as an interactive demo on the portfolio site — https://salvatorsg-lang.github.io/#health-demo (live once the site is published).
+**Try it in your browser:** the same scoring runs as an interactive demo on the portfolio site — https://salvatorsg-lang.github.io/#health-demo.
 
 ## An honest note
 
